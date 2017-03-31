@@ -1,3 +1,3 @@
 # FACISA
 
-Arquivos referente as atividades durtanto o curso de SI Facisa
+Arquivos referente as atividades durante o curso de SI Facisa
