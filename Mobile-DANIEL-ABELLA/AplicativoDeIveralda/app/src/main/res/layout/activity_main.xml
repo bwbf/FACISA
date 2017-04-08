@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="com.example.wesle.aplicativodeiveralda.MainActivity">
+
+    <LinearLayout
+        android:gravity="center|top"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <ImageView
+
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/hqdefault"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Carioca pegou Iveralda"/>
+
+        <TextView
+            android:id="@+id/quantidade"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="100"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vezes"/>
+
+        <Button
+            android:id="@+id/vezes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pegar!"/>
+
+
+    </LinearLayout>
+</LinearLayout>
