@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LayoutsExercicio</string>
+    <string-array name="categoria">
+        <item>Financeiro</item>
+        <item>Trancamento de Disciplinas</item>
+        <item>Pedido de Declaração</item>
+        <item>Solicitação de Bolsa</item>
+    </string-array>
+</resources>
